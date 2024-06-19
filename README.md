@@ -5,9 +5,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vidhijayswal&label=Profile%20views&color=0e75b6&style=flat" alt="vidhijayswal" /> </p>
 
-- 💬 Ask me about **Java**
+- 💬 Ask me about **Java,HTML,CSS,JavaScript,React.js,Node.js.,Angular,Swift**
 
-- 📫 How to reach me **vidhijayswal11998@gmail.com**
+- 📫 How to reach me **vidhijayswal22@gmail.com**
 
 <p align="left">
 </p>
