@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **Java,HTML,CSS,JavaScript,React.js,Node.js.,Angular,Swift**
 
-- 📫 How to reach me **vidhij1109@gmail.com**
+- 📫 How to reach me **vidhijayswal1122@gmail.com**
 
 <p align="left">
 </p>
